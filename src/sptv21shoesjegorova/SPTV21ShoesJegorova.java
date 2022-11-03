@@ -1,4 +1,4 @@
-package sptv21shoesJegorova;
+package sptv21shoesjegorova;
 
 public class SPTV21ShoesJegorova {
 
@@ -6,5 +6,5 @@ public class SPTV21ShoesJegorova {
         App app = new App();
         app.run();
     }
-   
+    
 }

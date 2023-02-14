@@ -1,4 +1,4 @@
-package sptv21shoesjegorova;
+package sptv21shoeshopsqlmilanajegorova;
 
 import entity.Customer;
 import entity.Shoes;
